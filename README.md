@@ -1,7 +1,9 @@
-# pandas-challenge
-Assignment 4 PyCity Schools Analysis
+# Project Completion Report: District-Wide School Performance Analysis
 
-District Summary: 
+## Objective:
+As the Chief Data Scientist for the city's school district, the goal was to analyze standardized test results and provide a comprehensive report showcasing key metrics and trends in school performance.
+
+### District Summary: 
 There are a total of 15 schools
 A student count of 39170.
 A total budget of over 83 million
@@ -14,7 +16,7 @@ The top 5 highest performing schools are all charter-type schools
 The bottom 5 worst performing schools are all district-type schools with a school size between 2000-5000 students.
 
 
-Conclusions:
+### Conclusions:
 - Charter school types are doing a lot better than District school types with an Overall Passing difference of about 40% in favor of Charter school types.
 When looking at school size. The larger population with a school size of 2000-5000 significantly decreases the passing percentage overall. 
 This leaves me with the conclusion that more populated district-type schools have a negative structure that affects the students poorly. 
